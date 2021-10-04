@@ -26,9 +26,9 @@ Structure:
 
 > The expert advisor (as they call it in the metatrader enviroment) works by adding this three lines to the main program.
 ```go 
-    EA := expert.NewExpertAdvisor("apiKey","apiSecret")
-	EA.Init()
-	EA.Run()
+EA := expert.NewExpertAdvisor("apiKey","apiSecret")
+EA.Init()
+EA.Run()
 ```
 
 > If you want to use the application to search for information without starting any strategy, you just have to delete "EA.Init ()" and "EA.Run()". 

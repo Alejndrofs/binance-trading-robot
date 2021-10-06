@@ -1,5 +1,5 @@
 package expert
-/*
+
 import (
 	"errors"
 	"fmt"
@@ -507,4 +507,3 @@ func GetFours(symbols []string) *Portfolio {
 	}
 	return fours
 }
-*/

@@ -1,6 +1,9 @@
 # binance trading robot
 This repo uses github.com/adshao/go-binance api.
 
+# BUY ME A COFFE
+0xcC98f4864125c8573038CFD0EA3f6119b12768f5
+
 > This code is provided as is, without warranty.
 
 > I disclaim responsibility for inappropriate use by users in a real environment.

@@ -21,6 +21,7 @@ Structure:
         |- Strategy Ichimoku (unfinished)
         |- Strategy Market Newtral (non real market newtral -just the name-)
         |- Strategy Moving Average (not tested)
+        |- Bootstap agregation of the of the market assets
     |- Indicators.
 ```
 

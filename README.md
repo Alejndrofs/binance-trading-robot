@@ -27,7 +27,7 @@ Structure:
     |- Indicators.
 ```
 
-> The expert advisor (as they call it in the metatrader enviroment) works by adding this three lines to the main program.
+> The expert advisor (as they call it in the metatrader enviroment) works by adding this line to the main program.
 ```go 
 EA := expert.NewExpertAdvisor("apiKey","apiSecret")
 ```

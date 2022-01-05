@@ -89,6 +89,4 @@ func main() {
 	}
 
 	EA = expert.NewExpertAdvisor(apiKey, apiSecret)
-	EA.Init()
-	EA.Run()
 }

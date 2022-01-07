@@ -1,8 +1,6 @@
 # binance trading robot
 This repo uses github.com/adshao/go-binance api.
 
-Also here is a blog post https://www.mql5.com/en/blogs/post/747234
-
 > This code is provided as is, without warranty.
 
 > I disclaim responsibility for inappropriate use by users in a real environment.
